@@ -1,0 +1,27 @@
+body{
+	background : darkgray;
+	text-align : center;
+}
+button{
+	width:441px;
+	height:50px;
+	font-weight:bold;
+	font-size:25px;
+}
+.img1{
+	 width:1334px;
+	 height:600px;
+}
+.img2{
+	width:403px;
+	height:300px;
+}
+.pp{
+	font-weight:italic;
+	font-size:25px;
+}
+a{
+	font-weight:italic;
+	font-size:20px;
+	text-decoration:none;
+}
